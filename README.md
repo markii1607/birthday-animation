@@ -1,2 +1,3 @@
 # birthday-animation
-Just an animation made on CSS to wish someone!
+
+## Credits to [h26k2] (https://github.com/h26k2/birthday-animation) for this template
